@@ -1,0 +1,5 @@
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Tree_SwapNodes\bin\Debug\Tree_SwapNodes.exe.config
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Tree_SwapNodes\bin\Debug\Tree_SwapNodes.exe
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Tree_SwapNodes\bin\Debug\Tree_SwapNodes.pdb
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Tree_SwapNodes\obj\Debug\Tree_SwapNodes.exe
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Tree_SwapNodes\obj\Debug\Tree_SwapNodes.pdb

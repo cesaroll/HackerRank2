@@ -1,0 +1,6 @@
+C:\Users\lopezce\Documents\Workspaces\HackerRank\DataStructures_Stack\bin\Debug\DataStructures_Stack.exe.config
+C:\Users\lopezce\Documents\Workspaces\HackerRank\DataStructures_Stack\bin\Debug\DataStructures_Stack.exe
+C:\Users\lopezce\Documents\Workspaces\HackerRank\DataStructures_Stack\bin\Debug\DataStructures_Stack.pdb
+C:\Users\lopezce\Documents\Workspaces\HackerRank\DataStructures_Stack\obj\Debug\DataStructures_Stack.csprojResolveAssemblyReference.cache
+C:\Users\lopezce\Documents\Workspaces\HackerRank\DataStructures_Stack\obj\Debug\DataStructures_Stack.exe
+C:\Users\lopezce\Documents\Workspaces\HackerRank\DataStructures_Stack\obj\Debug\DataStructures_Stack.pdb

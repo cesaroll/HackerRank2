@@ -1,0 +1,5 @@
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Strings_Anagrams\bin\Debug\Strings_Anagrams.exe.config
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Strings_Anagrams\bin\Debug\Strings_Anagrams.exe
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Strings_Anagrams\bin\Debug\Strings_Anagrams.pdb
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Strings_Anagrams\obj\Debug\Strings_Anagrams.exe
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Strings_Anagrams\obj\Debug\Strings_Anagrams.pdb

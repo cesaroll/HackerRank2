@@ -1,0 +1,6 @@
+C:\Users\lopezce\Documents\Workspaces\HackerRank\DataStructures_Trees\bin\Debug\DataStructures_Trees.exe.config
+C:\Users\lopezce\Documents\Workspaces\HackerRank\DataStructures_Trees\bin\Debug\DataStructures_Trees.exe
+C:\Users\lopezce\Documents\Workspaces\HackerRank\DataStructures_Trees\bin\Debug\DataStructures_Trees.pdb
+C:\Users\lopezce\Documents\Workspaces\HackerRank\DataStructures_Trees\obj\Debug\DataStructures_Trees.csprojResolveAssemblyReference.cache
+C:\Users\lopezce\Documents\Workspaces\HackerRank\DataStructures_Trees\obj\Debug\DataStructures_Trees.exe
+C:\Users\lopezce\Documents\Workspaces\HackerRank\DataStructures_Trees\obj\Debug\DataStructures_Trees.pdb

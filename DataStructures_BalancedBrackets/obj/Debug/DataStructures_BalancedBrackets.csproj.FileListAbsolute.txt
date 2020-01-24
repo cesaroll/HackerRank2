@@ -1,0 +1,5 @@
+C:\Users\lopezce\Documents\Workspaces\HackerRank\DataStructures_BalancedBrackets\bin\Debug\DataStructures_BalancedBrackets.exe.config
+C:\Users\lopezce\Documents\Workspaces\HackerRank\DataStructures_BalancedBrackets\bin\Debug\DataStructures_BalancedBrackets.exe
+C:\Users\lopezce\Documents\Workspaces\HackerRank\DataStructures_BalancedBrackets\bin\Debug\DataStructures_BalancedBrackets.pdb
+C:\Users\lopezce\Documents\Workspaces\HackerRank\DataStructures_BalancedBrackets\obj\Debug\DataStructures_BalancedBrackets.exe
+C:\Users\lopezce\Documents\Workspaces\HackerRank\DataStructures_BalancedBrackets\obj\Debug\DataStructures_BalancedBrackets.pdb

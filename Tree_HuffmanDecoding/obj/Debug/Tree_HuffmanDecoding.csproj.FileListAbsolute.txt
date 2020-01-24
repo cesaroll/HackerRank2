@@ -1,0 +1,5 @@
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Tree_HuffmanDecoding\bin\Debug\Tree_HuffmanDecoding.exe.config
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Tree_HuffmanDecoding\bin\Debug\Tree_HuffmanDecoding.exe
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Tree_HuffmanDecoding\bin\Debug\Tree_HuffmanDecoding.pdb
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Tree_HuffmanDecoding\obj\Debug\Tree_HuffmanDecoding.exe
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Tree_HuffmanDecoding\obj\Debug\Tree_HuffmanDecoding.pdb

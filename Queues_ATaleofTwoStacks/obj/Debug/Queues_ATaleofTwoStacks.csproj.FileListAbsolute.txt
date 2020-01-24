@@ -1,0 +1,5 @@
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Queues_ATaleofTwoStacks\bin\Debug\Queues_ATaleofTwoStacks.exe.config
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Queues_ATaleofTwoStacks\bin\Debug\Queues_ATaleofTwoStacks.exe
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Queues_ATaleofTwoStacks\bin\Debug\Queues_ATaleofTwoStacks.pdb
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Queues_ATaleofTwoStacks\obj\Debug\Queues_ATaleofTwoStacks.exe
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Queues_ATaleofTwoStacks\obj\Debug\Queues_ATaleofTwoStacks.pdb

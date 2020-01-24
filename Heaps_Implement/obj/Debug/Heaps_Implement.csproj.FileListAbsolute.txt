@@ -1,0 +1,5 @@
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Heaps_Implement\bin\Debug\Heaps_Implement.exe.config
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Heaps_Implement\bin\Debug\Heaps_Implement.exe
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Heaps_Implement\bin\Debug\Heaps_Implement.pdb
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Heaps_Implement\obj\Debug\Heaps_Implement.exe
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Heaps_Implement\obj\Debug\Heaps_Implement.pdb

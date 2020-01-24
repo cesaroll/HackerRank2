@@ -1,0 +1,6 @@
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Heaps_Cookies2\bin\Debug\Heaps_Cookies2.exe.config
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Heaps_Cookies2\bin\Debug\Heaps_Cookies2.exe
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Heaps_Cookies2\bin\Debug\Heaps_Cookies2.pdb
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Heaps_Cookies2\obj\Debug\Heaps_Cookies2.csprojResolveAssemblyReference.cache
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Heaps_Cookies2\obj\Debug\Heaps_Cookies2.exe
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Heaps_Cookies2\obj\Debug\Heaps_Cookies2.pdb

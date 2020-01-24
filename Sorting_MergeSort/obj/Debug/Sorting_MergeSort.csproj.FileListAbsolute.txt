@@ -1,0 +1,6 @@
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Sorting_MergeSort\bin\Debug\Sorting_MergeSort.exe.config
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Sorting_MergeSort\bin\Debug\Sorting_MergeSort.exe
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Sorting_MergeSort\bin\Debug\Sorting_MergeSort.pdb
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Sorting_MergeSort\obj\Debug\Sorting_MergeSort.csprojResolveAssemblyReference.cache
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Sorting_MergeSort\obj\Debug\Sorting_MergeSort.exe
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Sorting_MergeSort\obj\Debug\Sorting_MergeSort.pdb

@@ -1,0 +1,6 @@
+C:\Users\lopezce\Documents\Workspaces\HackerRank\DataStructures_Tries_Contacts\bin\Debug\DataStructures_Tries_Contacts.exe.config
+C:\Users\lopezce\Documents\Workspaces\HackerRank\DataStructures_Tries_Contacts\bin\Debug\DataStructures_Tries_Contacts.exe
+C:\Users\lopezce\Documents\Workspaces\HackerRank\DataStructures_Tries_Contacts\bin\Debug\DataStructures_Tries_Contacts.pdb
+C:\Users\lopezce\Documents\Workspaces\HackerRank\DataStructures_Tries_Contacts\obj\Debug\DataStructures_Tries_Contacts.exe
+C:\Users\lopezce\Documents\Workspaces\HackerRank\DataStructures_Tries_Contacts\obj\Debug\DataStructures_Tries_Contacts.pdb
+C:\Users\lopezce\Documents\Workspaces\HackerRank\DataStructures_Tries_Contacts\obj\Debug\DataStructures_Tries_Contacts.csprojResolveAssemblyReference.cache

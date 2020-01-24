@@ -1,0 +1,12 @@
+C:\Users\lopezce\Documents\Workspaces\Cesar\HackerRank\Candy_Replenishing_Robot\obj\Debug\Candy_Replenishing_Robot.csprojResolveAssemblyReference.cache
+C:\Users\lopezce\Documents\Workspaces\Cesar\HackerRank\Candy_Replenishing_Robot\bin\Debug\Candy_Replenishing_Robot.exe.config
+C:\Users\lopezce\Documents\Workspaces\Cesar\HackerRank\Candy_Replenishing_Robot\bin\Debug\Candy_Replenishing_Robot.exe
+C:\Users\lopezce\Documents\Workspaces\Cesar\HackerRank\Candy_Replenishing_Robot\bin\Debug\Candy_Replenishing_Robot.pdb
+C:\Users\lopezce\Documents\Workspaces\Cesar\HackerRank\Candy_Replenishing_Robot\obj\Debug\Candy_Replenishing_Robot.exe
+C:\Users\lopezce\Documents\Workspaces\Cesar\HackerRank\Candy_Replenishing_Robot\obj\Debug\Candy_Replenishing_Robot.pdb
+C:\Development\Cesar\HackerRank\Candy_Replenishing_Robot\bin\Debug\Candy_Replenishing_Robot.exe.config
+C:\Development\Cesar\HackerRank\Candy_Replenishing_Robot\bin\Debug\Candy_Replenishing_Robot.exe
+C:\Development\Cesar\HackerRank\Candy_Replenishing_Robot\bin\Debug\Candy_Replenishing_Robot.pdb
+C:\Development\Cesar\HackerRank\Candy_Replenishing_Robot\obj\Debug\Candy_Replenishing_Robot.csprojResolveAssemblyReference.cache
+C:\Development\Cesar\HackerRank\Candy_Replenishing_Robot\obj\Debug\Candy_Replenishing_Robot.exe
+C:\Development\Cesar\HackerRank\Candy_Replenishing_Robot\obj\Debug\Candy_Replenishing_Robot.pdb

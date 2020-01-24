@@ -1,0 +1,6 @@
+C:\Users\lopezce\Documents\Workspaces\HackerRank\DynamicProg_CoinChange\bin\Debug\DynamicProg_CoinChange.exe.config
+C:\Users\lopezce\Documents\Workspaces\HackerRank\DynamicProg_CoinChange\bin\Debug\DynamicProg_CoinChange.exe
+C:\Users\lopezce\Documents\Workspaces\HackerRank\DynamicProg_CoinChange\bin\Debug\DynamicProg_CoinChange.pdb
+C:\Users\lopezce\Documents\Workspaces\HackerRank\DynamicProg_CoinChange\obj\Debug\DynamicProg_CoinChange.csprojResolveAssemblyReference.cache
+C:\Users\lopezce\Documents\Workspaces\HackerRank\DynamicProg_CoinChange\obj\Debug\DynamicProg_CoinChange.exe
+C:\Users\lopezce\Documents\Workspaces\HackerRank\DynamicProg_CoinChange\obj\Debug\DynamicProg_CoinChange.pdb

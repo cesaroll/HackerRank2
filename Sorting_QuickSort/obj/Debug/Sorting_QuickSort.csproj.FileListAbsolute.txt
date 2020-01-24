@@ -1,0 +1,6 @@
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Sorting_QuickSort\bin\Debug\Sorting_QuickSort.exe.config
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Sorting_QuickSort\bin\Debug\Sorting_QuickSort.exe
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Sorting_QuickSort\bin\Debug\Sorting_QuickSort.pdb
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Sorting_QuickSort\obj\Debug\Sorting_QuickSort.csprojResolveAssemblyReference.cache
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Sorting_QuickSort\obj\Debug\Sorting_QuickSort.exe
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Sorting_QuickSort\obj\Debug\Sorting_QuickSort.pdb

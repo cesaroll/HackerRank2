@@ -1,0 +1,5 @@
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Tree_CheckBinarySearch\bin\Debug\Tree_CheckBinarySearch.exe.config
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Tree_CheckBinarySearch\bin\Debug\Tree_CheckBinarySearch.exe
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Tree_CheckBinarySearch\bin\Debug\Tree_CheckBinarySearch.pdb
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Tree_CheckBinarySearch\obj\Debug\Tree_CheckBinarySearch.exe
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Tree_CheckBinarySearch\obj\Debug\Tree_CheckBinarySearch.pdb

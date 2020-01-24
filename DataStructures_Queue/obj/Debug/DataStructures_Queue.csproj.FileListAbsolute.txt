@@ -1,0 +1,5 @@
+C:\Users\lopezce\Documents\Workspaces\HackerRank\DataStructures_Queue\bin\Debug\DataStructures_Queue.exe.config
+C:\Users\lopezce\Documents\Workspaces\HackerRank\DataStructures_Queue\bin\Debug\DataStructures_Queue.exe
+C:\Users\lopezce\Documents\Workspaces\HackerRank\DataStructures_Queue\bin\Debug\DataStructures_Queue.pdb
+C:\Users\lopezce\Documents\Workspaces\HackerRank\DataStructures_Queue\obj\Debug\DataStructures_Queue.exe
+C:\Users\lopezce\Documents\Workspaces\HackerRank\DataStructures_Queue\obj\Debug\DataStructures_Queue.pdb

@@ -1,0 +1,5 @@
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Cube_Rotation_InPlace\bin\Debug\Cube_Rotation_InPlace.exe.config
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Cube_Rotation_InPlace\bin\Debug\Cube_Rotation_InPlace.exe
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Cube_Rotation_InPlace\bin\Debug\Cube_Rotation_InPlace.pdb
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Cube_Rotation_InPlace\obj\Debug\Cube_Rotation_InPlace.exe
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Cube_Rotation_InPlace\obj\Debug\Cube_Rotation_InPlace.pdb

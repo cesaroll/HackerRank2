@@ -1,0 +1,5 @@
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Heaps_FindtheRunningMedian\bin\Debug\Heaps_FindtheRunningMedian.exe.config
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Heaps_FindtheRunningMedian\bin\Debug\Heaps_FindtheRunningMedian.exe
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Heaps_FindtheRunningMedian\bin\Debug\Heaps_FindtheRunningMedian.pdb
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Heaps_FindtheRunningMedian\obj\Debug\Heaps_FindtheRunningMedian.exe
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Heaps_FindtheRunningMedian\obj\Debug\Heaps_FindtheRunningMedian.pdb

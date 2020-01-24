@@ -1,0 +1,5 @@
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Heap_QHEAP1\bin\Debug\Heap_QHEAP1.exe.config
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Heap_QHEAP1\bin\Debug\Heap_QHEAP1.exe
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Heap_QHEAP1\bin\Debug\Heap_QHEAP1.pdb
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Heap_QHEAP1\obj\Debug\Heap_QHEAP1.exe
+C:\Users\lopezce\Documents\Workspaces\HackerRank\Heap_QHEAP1\obj\Debug\Heap_QHEAP1.pdb
